@@ -7,6 +7,6 @@ content:
   - url: ./
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    url: https://nightly.link/samjakob/osdev-wiki-ui/workflows/bundle-ui/master/osdev-wiki-ui.zip
     snapshot: true
 
